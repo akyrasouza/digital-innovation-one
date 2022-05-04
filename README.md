@@ -8,4 +8,4 @@
 
 ### Links Úteis:
 
-- Markdown [Sintaxe Básica] (https://www.markdownguide.org/basic-syntax/#links).
+- Markdown [Sintaxe Básica] (https://www.markdownguide.org/basic-syntax/#links) .
